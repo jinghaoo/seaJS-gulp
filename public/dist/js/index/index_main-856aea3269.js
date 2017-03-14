@@ -1,0 +1,1 @@
+define("b",function(c,n,e){console.log("bbbbbbbbbbb")}),define("c",function(c,n,e){console.log("ccccccccc")}),define("index",["c","b"],function(c,n,e){c("c"),c("b"),console.log("index"),console.log("index")}),seajs.use("index");

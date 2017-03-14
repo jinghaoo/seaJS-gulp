@@ -1,0 +1,11 @@
+@import url('../common/common.css');
+.demo1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #787878;
+    transform: translateX(-50%);
+    display: flex;
+    flex: 1;
+    border-radius: 4px;
+    text-decoration: none;
+}
