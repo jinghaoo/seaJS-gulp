@@ -1,7 +1,6 @@
 'use strict';
 
 const gulp = require('gulp'),
-    through = require('through2'),
     $ = require('gulp-load-plugins')();
 
 //css 合并  压缩  md5
